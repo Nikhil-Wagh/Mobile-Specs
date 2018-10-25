@@ -1,0 +1,57 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": true,
+		"sessionId": "amzn1.echo-api.session.3aa108bb-9ca8-41a1-a68e-642434b22ae4",
+		"application": {
+			"applicationId": "amzn1.ask.skill.5ab515a4-3d16-43b8-b599-54b4aa6b8821"
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AHTCUE5H4O35QZXPRXG6XOYUZMXFSDQLPBA5GZZPVX7QIN7TF3L776S4IVTKKSWFXOCHUC6Q6LHFA2SSJW3XE7DOSGZCGA65LXD4LSA7KPAFBSKJZQYBQ4EXFXA3L4AHVMXQOL7AAOF5ASFTH5YDV4E6H3J6IZJFSJYT2ZWGEN3CHA36YJN2M22EQYKJ7XNMCZNIMHHAVCH4XHA"
+		}
+	},
+	"context": {
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.5ab515a4-3d16-43b8-b599-54b4aa6b8821"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AHTCUE5H4O35QZXPRXG6XOYUZMXFSDQLPBA5GZZPVX7QIN7TF3L776S4IVTKKSWFXOCHUC6Q6LHFA2SSJW3XE7DOSGZCGA65LXD4LSA7KPAFBSKJZQYBQ4EXFXA3L4AHVMXQOL7AAOF5ASFTH5YDV4E6H3J6IZJFSJYT2ZWGEN3CHA36YJN2M22EQYKJ7XNMCZNIMHHAVCH4XHA"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AEBTBJITQQZYXU2EWHLQS26BASO3MDFZBIJK2RTU77N7S5PSUE3VBWTXKDNYDQ5BSMODNOJYBFPF6Q2EH3Y55LZG3JRNYI32Z4RUQPBLRIPYHAEESWT2JVP2GHA22NCGXDFKVCPXKJTCYGP7QEFXUT7LFGUQ",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.eu.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjVhYjUxNWE0LTNkMTYtNDNiOC1iNTk5LTU0YjRhYTZiODgyMSIsImV4cCI6MTU0MDQ5NTc2NCwiaWF0IjoxNTQwNDkyMTY0LCJuYmYiOjE1NDA0OTIxNjQsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUVCVEJKSVRRUVpZWFUyRVdITFFTMjZCQVNPM01ERlpCSUpLMlJUVTc3TjdTNVBTVUUzVkJXVFhLRE5ZRFE1QlNNT0ROT0pZQkZQRjZRMkVIM1k1NUxaRzNKUk5ZSTMyWjRSVVFQQkxSSVBZSEFFRVNXVDJKVlAyR0hBMjJOQ0dYREZLVkNQWEtKVENZR1A3UUVGWFVUN0xGR1VRIiwidXNlcklkIjoiYW16bjEuYXNrLmFjY291bnQuQUhUQ1VFNUg0TzM1UVpYUFJYRzZYT1lVWk1YRlNEUUxQQkE1R1paUFZYN1FJTjdURjNMNzc2UzRJVlRLS1NXRlhPQ0hVQzZRNkxIRkEyU1NKVzNYRTdET1NHWkNHQTY1TFhENExTQTdLUEFGQlNLSlpRWUJRNEVYRlhBM0w0QUhWTVhRT0w3QUFPRjVBU0ZUSDVZRFY0RTZIM0o2SVpKRlNKWVQyWldHRU4zQ0hBMzZZSk4yTTIyRVFZS0o3WE5NQ1pOSU1ISEFWQ0g0WEhBIn19.IvaGZzW1dKMUm8Msh4vw_n8Ui4ib8rEmzNCRfES-AV9PXTKoGdYN7cD2S9hWfU2STJwikeBTELQ09YwLx800GuNysPBuJyv99xYAQrNHP47pJRu9my-clRCWNWX9ogD-MvzpoaUZqPcMMs9KZjVF0ZU7S_IFOYSUxt8QqADzux3ON5G2p0uyFUevr8RW6XFGi82r4yRjivReaQzMZhQUAHFX2_CYnu6FfXvn4QnjWKWPb7qcNk5__nimFaA-HKlS67XOU5kipIVgs-DoV9VlmX1JpjjA7ooGyWJAoKn2RyqcpwUujWDEWO6MBO-cQjPbec7XCK1NWRRAx6GecHA3Hg"
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.ddf00fcc-b842-4b10-bac8-a5751d26bc58",
+		"timestamp": "2018-10-25T18:29:24Z",
+		"locale": "en-IN",
+		"intent": {
+			"name": "GetDeviceDescriptionIntent",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"DEVICE": {
+					"name": "DEVICE",
+					"value": "xiaomi redmi note 5 pro",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.5ab515a4-3d16-43b8-b599-54b4aa6b8821.Mobile",
+								"status": {
+									"code": "ER_SUCCESS_NO_MATCH"
+								}
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				}
+			}
+		}
+	}
+}

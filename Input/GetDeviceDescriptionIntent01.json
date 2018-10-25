@@ -1,0 +1,65 @@
+{
+	"version": "1.0",
+	"session": {
+		"new": false,
+		"sessionId": "amzn1.echo-api.session.ec87b341-2bb6-4f23-bd7d-b40958deef37",
+		"application": {
+			"applicationId": "amzn1.ask.skill.5ab515a4-3d16-43b8-b599-54b4aa6b8821"
+		},
+		"user": {
+			"userId": "amzn1.ask.account.AHTCUE5H4O35QZXPRXG6XOYUZMXFSDQLPBA5GZZPVX7QIN7TF3L776S4IVTKKSWFXOCHUC6Q6LHFA2SSJW3XE7DOSGZCGA65LXD4LSA7KPAFBSKJZQYBQ4EXFXA3L4AHVMXQOL7AAOF5ASFTH5YDV4E6H3J6IZJFSJYT2ZWGEN3CHA36YJN2M22EQYKJ7XNMCZNIMHHAVCH4XHA"
+		}
+	},
+	"context": {
+		"System": {
+			"application": {
+				"applicationId": "amzn1.ask.skill.5ab515a4-3d16-43b8-b599-54b4aa6b8821"
+			},
+			"user": {
+				"userId": "amzn1.ask.account.AHTCUE5H4O35QZXPRXG6XOYUZMXFSDQLPBA5GZZPVX7QIN7TF3L776S4IVTKKSWFXOCHUC6Q6LHFA2SSJW3XE7DOSGZCGA65LXD4LSA7KPAFBSKJZQYBQ4EXFXA3L4AHVMXQOL7AAOF5ASFTH5YDV4E6H3J6IZJFSJYT2ZWGEN3CHA36YJN2M22EQYKJ7XNMCZNIMHHAVCH4XHA"
+			},
+			"device": {
+				"deviceId": "amzn1.ask.device.AEBTBJITQQZYXU2EWHLQS26BASO3MDFZBIJK2RTU77N7S5PSUE3VBWTXKDNYDQ5BSMODNOJYBFPF6Q2EH3Y55LZG3JRNYI32Z4RUQPBLRIPYHAEESWT2JVP2GHA22NCGXDFKVCPXKJTCYGP7QEFXUT7LFGUQ",
+				"supportedInterfaces": {}
+			},
+			"apiEndpoint": "https://api.eu.amazonalexa.com",
+			"apiAccessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsImtpZCI6IjEifQ.eyJhdWQiOiJodHRwczovL2FwaS5hbWF6b25hbGV4YS5jb20iLCJpc3MiOiJBbGV4YVNraWxsS2l0Iiwic3ViIjoiYW16bjEuYXNrLnNraWxsLjVhYjUxNWE0LTNkMTYtNDNiOC1iNTk5LTU0YjRhYTZiODgyMSIsImV4cCI6MTU0MDQ5NDA3NSwiaWF0IjoxNTQwNDkwNDc1LCJuYmYiOjE1NDA0OTA0NzUsInByaXZhdGVDbGFpbXMiOnsiY29uc2VudFRva2VuIjpudWxsLCJkZXZpY2VJZCI6ImFtem4xLmFzay5kZXZpY2UuQUVCVEJKSVRRUVpZWFUyRVdITFFTMjZCQVNPM01ERlpCSUpLMlJUVTc3TjdTNVBTVUUzVkJXVFhLRE5ZRFE1QlNNT0ROT0pZQkZQRjZRMkVIM1k1NUxaRzNKUk5ZSTMyWjRSVVFQQkxSSVBZSEFFRVNXVDJKVlAyR0hBMjJOQ0dYREZLVkNQWEtKVENZR1A3UUVGWFVUN0xGR1VRIiwidXNlcklkIjoiYW16bjEuYXNrLmFjY291bnQuQUhUQ1VFNUg0TzM1UVpYUFJYRzZYT1lVWk1YRlNEUUxQQkE1R1paUFZYN1FJTjdURjNMNzc2UzRJVlRLS1NXRlhPQ0hVQzZRNkxIRkEyU1NKVzNYRTdET1NHWkNHQTY1TFhENExTQTdLUEFGQlNLSlpRWUJRNEVYRlhBM0w0QUhWTVhRT0w3QUFPRjVBU0ZUSDVZRFY0RTZIM0o2SVpKRlNKWVQyWldHRU4zQ0hBMzZZSk4yTTIyRVFZS0o3WE5NQ1pOSU1ISEFWQ0g0WEhBIn19.co_Hd3ATqxji5sUSzAtKqwXPaWn8bMNUHbZa9gldhdoUNW-qqHTVYzt-meyY4-oLntOzJwcuJWb8lVDLHi79d6XLj_PPWpSOKaTDAddyqF8l9Ecb0MhwDwan5o63FCXrJmslioGzv2wrDf5urHWODoLUyEM5A8geVmkxszHamR2ZZBf1BhzlWsh1lVKPGmlC18WoKPEWeglGK9tE0kMC5YJ0V7ejTsUjfJ8087V8LpS6Dx7alm0Rd2NBBhMXkJ9XtnnlSKOx-wdYuJ9lfnmxfyGjn5wubcp2o-iyKCb1V6AQe1_KbU32PYiEs3DQicIZxyt23K7SOCoH8E1Oo5QnQw"
+		}
+	},
+	"request": {
+		"type": "IntentRequest",
+		"requestId": "amzn1.echo-api.request.293d5269-6931-4443-8d8e-0abda7f1b092",
+		"timestamp": "2018-10-25T18:01:15Z",
+		"locale": "en-IN",
+		"intent": {
+			"name": "GetDeviceDescriptionIntent",
+			"confirmationStatus": "NONE",
+			"slots": {
+				"DEVICE": {
+					"name": "DEVICE",
+					"value": "iPhone x",
+					"resolutions": {
+						"resolutionsPerAuthority": [
+							{
+								"authority": "amzn1.er-authority.echo-sdk.amzn1.ask.skill.5ab515a4-3d16-43b8-b599-54b4aa6b8821.Mobile",
+								"status": {
+									"code": "ER_SUCCESS_MATCH"
+								},
+								"values": [
+									{
+										"value": {
+											"name": "iphone XS",
+											"id": "f1a91c7f80ec3b0c2c24304067d579a7"
+										}
+									}
+								]
+							}
+						]
+					},
+					"confirmationStatus": "NONE",
+					"source": "USER"
+				}
+			}
+		}
+	}
+}
